@@ -5,33 +5,33 @@ import {BiCheck} from "react-icons/bi"
 const Services = () => {
   return (
     <section id='services'>
-      <h5>What I Offer</h5>
-      <h2>Services</h2>
+      <h5>What I Am Practicing</h5>
+      <h2>Works</h2>
       <div className="container services__container">
         <article className='service'>
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>UI/UX</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Front-End basic designs</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Use of intermediatte CSS</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Classy Footer.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Well maintained carts...</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>HD Images...</p>
             </li>
           </ul>
         </article>
@@ -44,27 +44,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>To Do List App using ReactJs.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>PortFolio Neog Camp.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Banana Language..</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>How well do you know me?</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Portfolio Website using HTML,CSS ans JS only.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Emoji Interpreter(incomplete)</p>
             </li>
           </ul>
         </article>
@@ -72,28 +72,28 @@ const Services = () => {
 
         <article className='service'>
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Programming</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Command on Arrays(Java)</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Command on Strings(Java)</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Stacks,Hashing,Linked Lists.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>Binary Search Tree(Basics only)</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+              <p>MySQL queries..</p>
             </li>
           </ul>
         </article>

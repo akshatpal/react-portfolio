@@ -2,7 +2,6 @@ import React from 'react'
 import "./about.css"
 import Me from "../../assets/1.jpg"
 import {FaAward} from "react-icons/fa"
-import {FiUsers} from "react-icons/fi"
 import {VscFolderLibrary} from "react-icons/vsc"
 
 const About = () => {
@@ -23,13 +22,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>1+ years Working</small>
-            </article>
-
-            <article className='about__card'>
-              <FiUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small>100+ Overall</small>
+              <small>3 Months Working</small>
             </article>
 
             <article className='about__card'>
@@ -38,8 +31,8 @@ const About = () => {
               <small>5+ Completed</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum laboriosam impedit nihil qui illo modi quia neque tenetur iure expedita! Tempore pariatur architecto fuga autem eius amet libero sapiente odit.</p>
-          <a href="#conatct" className='btn btn-primary'>Let's Talk</a>
+          <p>The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.</p>
+          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>
